@@ -11,7 +11,7 @@ class child implements parent {
 }
 
 public class interfaceclass {
-    public static void main(String args[]) {
+    public static void main(Strgiting args[]) {
         child obj = new child();
         obj.display();
     }
